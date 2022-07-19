@@ -1,4 +1,5 @@
 # waste-image-classification
+Dataset: TrashNet (https://github.com/garythung/trashnet)
 Explore the performance of waste image classification through modifying the architectures of InceptionResNetV2.
 
 ## Comparison of Optimizers
